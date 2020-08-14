@@ -1,0 +1,6 @@
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/sebastianluszczek/express_postgres_restful_example.git
+[submodule "graphql_service"]
+	path = graphql_service
+	url = https://github.com/sebastianluszczek/graphql_express_mongo_example.git
